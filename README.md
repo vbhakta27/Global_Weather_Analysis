@@ -73,8 +73,8 @@ I then narrowed down the DataFrame to find my ideal weather conditions:
 <img src="output_data/ideal_weather.png">
 
 
-Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+Used Google Places API to find the first hotel for each city located within 5000 meters of each city's coordinates.
 <img src="output_data/hotel_dataframe.png">
 
-### Humidity heatmap overlayed with pins containing the **Hotel Name**, **City**, and **Country**.
+#### Humidity heatmap overlayed with pins containing the **Hotel Name**, **City**, and **Country**.
 <img src="output_data/hotel_heatmap.png">
